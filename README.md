@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jakeonrails/timestamp_scopes.png)](https://travis-ci.org/jakeonrails/timestamp_scopes)
+
 # timestamp_scopes
 
 Dynamically add useful timestamp scopes to your ActiveRecord models!
