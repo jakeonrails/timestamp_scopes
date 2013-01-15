@@ -8,7 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = TimestampScopes::VERSION
   gem.authors       = ["Jake Moffatt"]
   gem.email         = ["jakeonrails@gmail.com"]
-  gem.summary       = "ActiveRecord scopes for timestamp columns with handy DSL"
+  gem.summary       = "ActiveRecord scopes for timestamp columns"
+  gem.description   = "Dynamically add useful timestamp scopes to your ActiveRecord models!"
   gem.homepage      = "https://github.com/jakeonrails/timestamp_scopes"
 
   gem.files         = `git ls-files`.split($/)
