@@ -86,7 +86,7 @@ Post.created(:last_week)
 Post.created(:last_month)
 ```
 
-Please submit a github Issue if you think of a cool new syntax that you think timestamp_scopes should support.
+Please [submit an issue](https://github.com/jakeonrails/timestamp_scopes/issues/new) if you think of a cool new syntax that you think timestamp_scopes should support.
 
 ## Contributing
 
@@ -95,3 +95,7 @@ Please submit a github Issue if you think of a cool new syntax that you think ti
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## Author(s)
+
+timestamp_scopes is written and maintained by Jake Moffatt ([@jakeonrails](http://twitter.com/jakeonrails))
