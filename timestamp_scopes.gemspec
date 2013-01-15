@@ -20,5 +20,6 @@ Gem::Specification.new do |gem|
   gem.add_development_dependency 'rspec', '~> 2.12.0'
   gem.add_development_dependency 'sqlite3', '~> 1.3.3'
   gem.add_development_dependency 'activerecord', '~> 3.0'
+  gem.add_development_dependency 'travis-lint'
 
 end
