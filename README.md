@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/jakeonrails/timestamp_scopes.png)](https://travis-ci.org/jakeonrails/timestamp_scopes)
+[![Build Status](https://travis-ci.org/jakeonrails/timestamp_scopes.png)](https://travis-ci.org/jakeonrails/timestamp_scopes) • [![Gem Version](https://badge.fury.io/rb/timestamp_scopes.png)](http://badge.fury.io/rb/timestamp_scopes)
 
 # timestamp_scopes
 
